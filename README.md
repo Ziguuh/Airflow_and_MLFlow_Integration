@@ -37,7 +37,7 @@ exemplo — mlflow.sklearn.log_model('Ridge', model_ridge)
 
 * Tutoriais do mlflow você encontra:
 * [Documentação oficial](https://mlflow.org/docs/0.5.0/index.html)
-* [Medium] (https://towardsdatascience.com/manage-your-machine-learning-lifecycle-with-mlflow-part-1-a7252c859f72)
+* [Medium](https://towardsdatascience.com/manage-your-machine-learning-lifecycle-with-mlflow-part-1-a7252c859f72)
 * [Databricks](https://docs.databricks.com/_static/notebooks/mlflow/mlflow-quick-start-training.html)
 
 # Para instalar:
