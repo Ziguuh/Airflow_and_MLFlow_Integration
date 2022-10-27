@@ -24,6 +24,15 @@ O Airflow fornece aos operadores muitas tarefas comuns, incluindo:
 * **MySqlOperator, SqliteOperator, PostgresOperator, MsSqlOperator, OracleOperator, JdbcOperator, etc.** — executa um comando SQL
 * **Sensor** — um Operador que espera (polls) por um determinado tempo, arquivo, linha do banco de dados, chave S3, etc…
 
+### **De um novo terminal digite:**
+> **$ airflow webserver**
+> **$ airflow scheduler**
+
+### **No navegador:**
+> localhost:8080 (por padrao)
+
+> **$ airflow webserver**o
+
 
 # MLFlow
 
@@ -47,12 +56,16 @@ exemplo — mlflow.sklearn.log_model('Ridge', model_ridge)
 # *Para instalar:*
 > **$ pip install mlflow**
 
-# *Para visualização:* 
+### *Para visualização:* 
 
-**De um novo terminal digite: **
+### **De um novo terminal digite:**
 > **$ mlflow ui**
 
-para visualizar seus experimentos e modelos treinados.
+Para visualizar seus experimentos e modelos treinados:
+
+![indicium-blog-post-kedro-ferramenta-mlflow](https://user-images.githubusercontent.com/96500247/198414973-13544d1e-113d-4dfd-97df-986de19d7edd.png)
+
+
 
 
 
