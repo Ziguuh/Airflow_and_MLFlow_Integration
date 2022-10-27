@@ -1,4 +1,8 @@
 # Integração do Mlflow com Airflow em máquina local.
+
+Utilizando o conjunto de dados scikit-learn "diabetes" e prevê a métrica de progressão (uma medida quantitativa da progressão da doença após um ano) com base no IMC, pressão arterial e outras medidas!
+
+
 # Airflow
 
 O Airflow é uma plataforma para criar, agendar e monitorar de forma programática fluxos de trabalho. Use o Airflow para criar fluxos de trabalho como gráficos acíclicos direcionados (DAGs) de tarefas.
