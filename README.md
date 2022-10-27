@@ -39,17 +39,21 @@ exemplo — mlflow.log_metric('rmse', rmse_value_of_model_train)
 * **Artefatos** — Arquivos de saída em qualquer formato. Por exemplo, você pode gravar imagens (por exemplo, PNGs), modelos (por exemplo, um modelo scikit-learn em conserva) ou até mesmo arquivos de dados (por exemplo, um arquivo parquet) como artefatos.
 exemplo — mlflow.sklearn.log_model('Ridge', model_ridge)
 
-# Tutoriais do mlflow você encontra:
+# **Tutoriais do mlflow você encontra:**
 * [Documentação oficial](https://mlflow.org/docs/0.5.0/index.html)
 * [Medium](https://towardsdatascience.com/manage-your-machine-learning-lifecycle-with-mlflow-part-1-a7252c859f72)
 * [Databricks](https://docs.databricks.com/_static/notebooks/mlflow/mlflow-quick-start-training.html)
 
-# Para instalar:
+# *Para instalar:*
 > **$ pip install mlflow**
 
-# para visualização: 
+# *Para visualização:* 
 
-De um novo terminal digite: 
+**De um novo terminal digite: **
 > **$ mlflow ui**
 
-Codigo em eterna* construção....
+para visualizar seus experimentos e modelos treinados.
+
+
+
+> *Codigo em construção....*
